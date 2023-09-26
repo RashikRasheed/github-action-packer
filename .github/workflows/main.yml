@@ -3,7 +3,7 @@ name: Packer Build
 on:
   push:
     branches:
-      - main
+      - master
 
 env:
   PRODUCT_VERSION: "1.9.4"
