@@ -14,5 +14,5 @@ locals {
 }
 
 variable "ami" {
-  default = "ami-0f5ee92e2d63afc18"
+  default = "ami-067c21fb1979f0b27"
 }
